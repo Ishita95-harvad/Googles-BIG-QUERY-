@@ -1,4 +1,4 @@
-#  BigQuery AI - Building the Future of Data
+#  [BigQuery AI - Building the Future of Data ](https://www.kaggle.com/competitions/bigquery-ai-hackathon)
 Build AI solutions with BigQuery🚀
 
 ![Tech: BigQuery](https://img.shields.io/badge/Tech-Google_BigQuery-blue?logo=googlecloud)
