@@ -1,4 +1,6 @@
-# Google BigQuery Projects 🚀
+#  BigQuery AI - Building the Future of Data
+Build AI solutions with BigQuery🚀
+
 ![Tech: BigQuery](https://img.shields.io/badge/Tech-Google_BigQuery-blue?logo=googlecloud)
 ![Query: SQL](https://img.shields.io/badge/Query-Type_SQL-orange)
 ![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-lightgrey)
@@ -7,7 +9,7 @@ This repository showcases SQL-based analytics using Google BigQuery, focusing on
 
 ## -------------------------------------------------------------------------
 
-## 🚀 Project Overview
+## 🚀 Project Overview -Google BigQuery Projects 
 This repository explores scalable SQL analytics using Google BigQuery. It demonstrates efficient querying, public dataset exploration, and performance tuning techniques for real-world data.
 
 ---
