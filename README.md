@@ -5,7 +5,7 @@
 
 This repository showcases SQL-based analytics using Google BigQuery, focusing on public datasets, optimized queries, and scalable insights.
 
-## --------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------
 
 ## 🚀 Project Overview
 This repository explores scalable SQL analytics using Google BigQuery. It demonstrates efficient querying, public dataset exploration, and performance tuning techniques for real-world data.
